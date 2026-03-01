@@ -1,0 +1,17 @@
+{
+  "name": "ArabWorld - Belajar Arab",
+  "short_name": "ArabWorld",
+  "description": "Aplikasi Interaktif Belajar Bahasa Arab untuk Kanak-kanak",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#e0f2fe",
+  "theme_color": "#38bdf8",
+  "icons": [
+    {
+      "src": "LOGO ArabWorld.jpeg",
+      "sizes": "192x192 512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
